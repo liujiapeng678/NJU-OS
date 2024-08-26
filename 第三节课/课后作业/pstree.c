@@ -230,7 +230,7 @@ void Numbersort(){
 }
 
 void printversion(){
-    printf("\npstree 1.0\nThis is a programming homework for operating system class in the spring semester of 2019.\nBy Shaocheng Tao.\n");
+    printf("\npstree 1.0");
 }
 
 void add_pid_to_name(){
